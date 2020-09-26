@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">DatabaseQuery</string>
+    <string name="title_activity_about_out_team">About Our Team</string>
+    <string name="about_our_team">
+        "\n"
+        "This tool is used to guide the selection of analysis tools when the data source is specified.\n\n"
+        "Development Team:\n"
+        "Liu Hongde team,\n"
+        "School of Biological Sciences and Medical Engineering,\n"
+        "Southeast University\n\n"
+
+        "Team Member:\n"
+        "Luan Kaihao,\n"
+        "Lin Lu,\n"
+        "Tan Yuanyuan,\n"
+        "Ding Jianing\n\n"
+
+        "Contact Us:\n"
+        "220202055@seu.edu.cn"
+    </string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tool_list">ScrollingActivity</string>
+    <string name="query">Query</string>
+    <string name="update">Update</string>
+    <string name="list">List</string>
+    <string name="about">About</string>
+
+</resources>
