@@ -1,5 +1,3 @@
 package com.example.databasequery
 
-class Tool(val id: Int, val name: String, val download: String){
-
-}
+class Tool(val id: Int, val name: String, val type: String)
