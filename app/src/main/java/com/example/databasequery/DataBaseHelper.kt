@@ -1,14 +1,9 @@
 package com.example.databasequery
 
-import android.R.id
-import android.app.DownloadManager
 import android.content.Context
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
-import android.net.Uri
 import android.widget.Toast
-import androidx.core.content.ContextCompat.getSystemService
-
 
 class DataBaseHelper(val context: Context, name: String, version: Int) : SQLiteOpenHelper(
     context, name, null, version) {
